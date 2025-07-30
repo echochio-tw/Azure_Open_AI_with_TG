@@ -3,6 +3,8 @@
 run shell
 
 /root/telegram-go-bot-host/.env
+
+
 '''
 TELEGRAM_BOT_TOKEN="839295611:AAGnKkiTCtZtHGUxLtYW9Tf4og"
 AZURE_OPENAI_ENDPOINT="https://admin-eastus2.cognitiveservices.azure.com/"
